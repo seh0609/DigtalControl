@@ -56,11 +56,21 @@ Tabla 1. Tabla de ejemplo
 
 Cada tabla debe llevar la etiqueta que describa su contenido y numeración consecutiva para todas las tablas
 
-## 8. Ejercicios
+## 8. Código
+Teniendo en cuenta que el curso requiere del desarrollo de código matlab, c, c++ u otro. Si requiere incluir pequeños segmentos de código en los apuntes hágalos de la siguiente manera:
+
+💡**Ejemplo 4:**
+```
+var sumar2 = function(numero) {
+  return numero + 2;
+}
+```
+
+## 9. Ejercicios
 Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas tratados en cada una de las clases. Para agregar estos, utilice la etiqueta #, es decir como un nuevo título dentro de la clase con la palabra 'Ejercicios'. Cada uno de los ejercicios debe estar numerado y con su respectiva solución inmediatamente despues del enunciado. Antes del subtitulo de cada ejercicio incluya el emoji 📚
 
-## 9. Conclusiones
+## 10. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
-## 10. Referencias
+## 11. Referencias
 Agregue un subtítulo al final donde pueda poner todas las referencias consultadas incluyendo el origen o fuente de los ejercicios planteados. Tambien dentro del texto referencie los textos o artículos consultados y las figuras y tablas dentro de la explicación de las mismas.
