@@ -31,7 +31,9 @@ Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las
 * Después escribimos, dentro de los paréntesis, la ubicación del archivo (ya sea una url o una ubicación dentro de algun folder local). Se recomienda poner las imágenes en una carpeta que se llame imágenes dentro del repositorio github para que no tengan problemas al cargar las imágenes.
 
 💡**Ejemplo 2:**
+
 ![Figura de prueba](images/plantilla/Captura2.PNG)
+
 Figura 1. Figura de prueba
 ## 7. Tablas
 En caso de necesitarincluir tablas para organizar informa
