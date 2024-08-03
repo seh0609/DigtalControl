@@ -35,5 +35,8 @@ Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las
 ![Figura de prueba](images/plantilla/Captura2.PNG)
 
 Figura 1. Figura de prueba
+
+Incluya la respectiva etiqueta a modo de descripción de la figura y mantenga numeración consecutiva para todas las figuras de la clase.
+
 ## 7. Tablas
-En caso de necesitarincluir tablas para organizar informa
+En caso de necesitar la inclusión de tablas para organizar información se recomienda el uso de la herramienta del siguiente enlace https://www.tablesgenerator.com/markdown_tables 
