@@ -3,89 +3,124 @@ En la clase se vio que un modelamiento define como la obtención de funciones ma
 
 ![image](https://github.com/user-attachments/assets/1e70ffd0-83ba-450c-97b2-7adee228efdd)
 
+Figura 1. Principio del modelamiento
+
 ## 1. Modelo dinamico
 Variables de interes con respecto al tiempo F(t)
 
-Tambien es necesario saber cuando las variables cambian con respecto al tiempo $R=\frac{df(t)}{dt}$
+Tambien es necesario saber cuando las variables cambian con respecto al tiempo $\frac{df(t)}{dt}$
+
+Como luce un modelo de ecuacion diferencial 
+
+![image](https://github.com/user-attachments/assets/6589b5c7-2869-45f7-8a0f-87ca88f51830)
+
+Figura 2. modelo de una ecuacion diferencial
+
+>🔑 *F:* salida sistema
+>
+>🔑 *U:* entrada del sistema
+>
+>🔑 la solucion siempre va a ser una funcion
+>
 
 
+## 2. Sistemas Mecanicos
+Este es un sistema el cual cumple una tarea especifica mediante la manipulación de fuerzas y movimientos. En estos sistemas se encuentran mecanismos que transforman la energía, ya sea para aumentar la velocidad, alterar la dirección del movimiento o generar un cambio deseado en la fuerza aplicada
 
-## 1. Subtítulos
-Agregue todos los subtítulos que considere necesarios para estructurar el contenido de la clase. Es importante que considere jerarquías de los temas para definir el orden de estos subtítulos. Cada subtítulo debe ir numerado como una sección, de la manera en que lo presenta esta plantilla
+### 2.1. Ecuaciones fundamentales 
 
-## 2. Definiciones
-Utilice el símbolo '>' para crear bloques de texto. En la presente plantilla estas cajas están reservadas para resaltar las definiciones, las cuales deben ser breves, y la palabra o frase que se está definiendo debe estar en letra itálica. El inicio del bloque de texto debe realizarse con el emoji 🔑 .
->🔑 *Definición:* descripción precisa y clara del significado de una palabra, término, concepto o fenómeno. Es una explicación que establece los límites y el alcance de aquello que se está definiendo, aclarando su naturaleza, características esenciales y, en algunos casos, su relación con otros conceptos.
+$$Fr={K2}x{X}$$ -- Ley de Hooke
 
-## 3. Subsecciones
-Las subsecciones pueden utilizarse para sub dividir ciertos temas que se tienen en clases, por ejemplo si se está trabajandolos conversores D/A, puede ser necesario subdividir este en circuito de resistencias ponderadas y circuito de escalera R2R. 
-### 3.1. Título de subsecciones
-Para la creación de estas subsecciones debe utilizar un tamaño de letra más pequeño, por lo tanto utilice la etiqueta '###' 
-### 3.2. Numeración de subsecciones
-Siga la numeración de la sección seguida de un punto y luego el número de la subsección.
+$$Ff={K1}x{Vm}$$ -- 𝐹𝑟𝑖𝑐𝑐𝑖ó𝑛 𝑣𝑖𝑠𝑐𝑜𝑠𝑎
 
-## 4. Ejemplos
-Si en algún caso pretende dar un ejemplo explicativo ya sea a través de texto o através de ecuaciones matemáticos, utilizar la palabra 'Ejemplo' seguido de una numeración consecutiva dentro de la clase. Utilice el emoji 💡 antecediendo la palabra.
+$$F={m}x{a}$$ -- 𝐿𝑒𝑦𝑒𝑠 𝑑𝑒 𝑁𝑒𝑤𝑡𝑜𝑛
 
-## 5. Ecuaciones
-Para la edición de ecuaciones debe utilizar la etiqueta '$$' al comienzo y final de la ecuación para que la ecuación quede centrada ocupando una línea. Si se quiere que la ecuación quede integrada en el texto debe utilizar la etiqueta '$' al comienzo y final de la ecuación. Las ecuaciones pueden ser editadas utilizando el código LATEX, en el siguiente enlace encuentran un editor de ecuaciones que les genera el código. http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp . Sin embargo hay muchas otras herramientas que pueden utilizar para esto.
+### 2.2. Ejemplo
+💡**Ejemplo 1:** Sistemas masa-resorte-amortiguador
 
-💡**Ejemplo 1:** si se va a representar la ecuación de la ley de Ohm se puede mostrar así $R=\frac{V}{I}$ o también,
+![image](https://github.com/user-attachments/assets/37a4bbfb-d056-45f2-bc5a-9ceb2ddcaf51)
 
-$$R=\frac{V}{I}$$
+Figura 3. Desarrollo del ejemplo, este ekemplo se saco de https://www.studocu.com/pe/document/universidad-nacional-de-san-agustin-de-arequipa/fisica/ejemplo-masa-resorte-amortiguador/30445000
 
-## 6. Figuras
-Todas las figuras que incluya deben ser generadas por ustedes, **no utilizar las figuras de las presentaciones**. Para incluir figuras puede seguir los siguientes pasos:
-* Primero escribimos ![]().
-* Después escribimos, dentro de los corchetes, el texto alternativo. Este es opcional y solo entra en acción cuando no se puede cargar la imagen correctamente.
-* Después escribimos, dentro de los paréntesis, la ubicación del archivo (ya sea una url o una ubicación dentro de algun folder local). Se recomienda poner las imágenes en una carpeta que se llame imágenes dentro del repositorio github para que no tengan problemas al cargar las imágenes.
-
-💡**Ejemplo 2:**
-
-![Figura de prueba](images/plantilla/Captura2.PNG)
-
-Figura 1. Figura de prueba
-
-Incluya la respectiva etiqueta a modo de descripción de la figura y mantenga numeración consecutiva para todas las figuras de la clase.
-
-## 7. Tablas
+### 2.3. Tabla
 En caso de necesitar la inclusión de tablas para organizar información se recomienda el uso de la herramienta del siguiente enlace https://www.tablesgenerator.com/markdown_tables , la cual permite organizar la información dentro de la tabla y genera el código markdown automáticamente:
 
-💡**Ejemplo 3:** 
+## 2.4. Ejercicios
+📚 **Ejercicio mecanico**
 
-| **Resultado** | **x = número de intentos hasta primer éxito** |
-|---------------|-----------------------------------------------|
-|       S       |                       1                       |
-|       FS      |                       2                       |
-|      FFS      |                       3                       |
-|      ...      |                      ...                      |
-|    FFFFFFS    |                       7                       |
-|      ...      |                      ...                      |
+![image](https://github.com/user-attachments/assets/19d2dd78-a7e2-4ee1-a64e-09c0b15871b7)
 
-Tabla 1. Tabla de ejemplo
+Figura 4. Ejercicio 1
 
-Cada tabla debe llevar la etiqueta que describa su contenido y numeración consecutiva para todas las tablas
+![image](https://github.com/user-attachments/assets/5ac06f2f-fe6d-4aa8-b058-7b03d5d7cde7)
 
-## 8. Código
-Teniendo en cuenta que el curso requiere del desarrollo de código matlab, c, c++ u otro. Si requiere incluir pequeños segmentos de código en los apuntes hágalos de la siguiente manera:
+Figura 5. Diagrama de cuerpo libre
 
-💡**Ejemplo 4:**
-```
-var sumar2 = function(numero) {
-  return numero + 2;
-}
-```
+![Imagen de WhatsApp 2025-03-11 a las 20 37 50_3db0ac34](https://github.com/user-attachments/assets/9eb2b32f-3b6a-454a-9641-2d542b8333bb)
 
-## 9. Ejercicios
-Deben agregar 2 ejercicios con su respectiva solución, referentes a los temas tratados en cada una de las clases. Para agregar estos, utilice la etiqueta #, es decir como un nuevo título dentro de la clase con la palabra 'Ejercicios'. Cada uno de los ejercicios debe estar numerado y con su respectiva solución inmediatamente despues del enunciado. Antes del subtitulo de cada ejercicio incluya el emoji 📚
+Figura 6. Desarrollo del ejercicio 
 
-## Rúbrica
-| 0-1                                                                                   | 1-2                                                                                  | 2-3                                                                                                                                                                               | 3-4                                                                                                                                                                       | 4-5                                                                                                                                                                               |
-|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Presenta menos del 10% de los temas o no presenta por  el medio y formato  solicitado | Presenta menos del 40% de los temas solicitados, y  cumple parcialmente la plantilla | Presenta menos del 60% de los temas solicitados (con descripciones, gráficos tablas, etc), y cumple  parcialmente la plantilla. No presenta la totalidad  de ejercicios resueltos | Presenta menos del 80% de los temas solicitados (con descripciones, gráficos, tablas, etc) y cumple con  la plantilla. No presenta  la totalidad de ejercicios  resueltos | Presenta el 100% de los temas vistos en clase (con descripciones, gráficos, tablas, etc), siguiendo totalmente la plantilla. presenta la  totalidad de los ejercicios solicitados |
+cambio
+
+## 3. Sistemas Rotacional
+Se entiende por un sistema rotacional a un modelo que gira en torno de un eje interno a este movimiento se le conoce como "rotacion"
+>🔑 *Rotacion:* movimiento en el que los distintos puntos del cuerpo presentan velocidades que son proporcionales a su distancia al eje.
+
+El rotacional o rotor es un operador vectorial que muestra la tendencia de un campo vectorial a inducir rotación alrededor de un punto.
+
+### 3.1. Ecuaciones fundamentales 
+
+$$Fr={K}x{φ}$$ -- Angulo de torsion
+
+$$Ff=b x \frac{dφ}{dt}$$ -- V𝑒𝑙𝑜𝑐𝑖𝑑𝑎𝑑 𝑎𝑛𝑔𝑢𝑙𝑎𝑟
+
+$$T=J x \frac{dφ^2}{dt^2}$$ -- M𝑜𝑚𝑒𝑛𝑡𝑜 𝑑𝑒 𝑖𝑛𝑒𝑟𝑐𝑖𝑎
+
+### 3.2. Ejemplo
+💡**Ejemplo 1:** 
+
+![image](https://github.com/user-attachments/assets/b61d2c92-58a8-4873-a851-522f96376599)
+
+Figura 7 Desarrollo del ejemplo, este ekemplo se saco de https://dademuchconnection.wordpress.com/2018/09/22/funcion-de-transferencia-de-sistema-mecanico-rotacional-masa-resorte-amortiguador/
+
+![image](https://github.com/user-attachments/assets/d88d1486-e911-4082-900b-ed0aea6fd051)
+
+Figura 8 Desarrollo del ejemplo, este ekemplo se saco de https://dademuchconnection.wordpress.com/2018/09/22/funcion-de-transferencia-de-sistema-mecanico-rotacional-masa-resorte-amortiguador/
+
+
+![image](https://github.com/user-attachments/assets/9cd335f7-d883-4480-a896-d21db1bce4a4)
+
+Figura 9 Desarrollo del ejemplo, este ekemplo se saco de https://dademuchconnection.wordpress.com/2018/09/22/funcion-de-transferencia-de-sistema-mecanico-rotacional-masa-resorte-amortiguador/
+
+![image](https://github.com/user-attachments/assets/309a12ac-0ce0-4204-917c-fdcc9f222520)
+
+Figura 10 Desarrollo del ejemplo, este ekemplo se saco de https://dademuchconnection.wordpress.com/2018/09/22/funcion-de-transferencia-de-sistema-mecanico-rotacional-masa-resorte-amortiguador/
+
+## 3.3. Ejercicios
+📚 **Ejercicio rotacional**
+
+![image](https://github.com/user-attachments/assets/c283e99e-ffd9-4e6d-9189-bcc6598aaa15)
+
+Figura 11. Ejercicio 2
+
+![image](https://github.com/user-attachments/assets/7d95bb4d-a755-4306-a945-f803a46418ea)
+
+Figura 12. Diagrama de cuerpo libre
+
+![Imagen de WhatsApp 2025-03-11 a las 20 38 38_b53a63da](https://github.com/user-attachments/assets/cf8c19f1-0451-496b-b436-af6c8e7f0577)
+
+Figura 13. Desarrollo del ejercicio 
 
 ## 10. Conclusiones
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
 ## 11. Referencias
-Agregue un subtítulo al final donde pueda poner todas las referencias consultadas incluyendo el origen o fuente de los ejercicios planteados. Tambien dentro del texto referencie los textos o artículos consultados y las figuras y tablas dentro de la explicación de las mismas.
+https://sdindustrial.com.mx/blog/introduccion-a-los-sistemas-mecanicos/
+
+https://www.studocu.com/pe/document/universidad-nacional-de-san-agustin-de-arequipa/fisica/ejemplo-masa-resorte-amortiguador/30445000
+
+https://ocw.unican.es/pluginfile.php/1829/course/section/1438/capitulo_1.pdf
+
+https://www.scribd.com/document/217568833/sistemas-rotacionales
+
+
