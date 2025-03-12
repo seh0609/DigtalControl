@@ -1,9 +1,7 @@
 # Modelamiento de sistemas
-En la clase se vio que un modelamiento define como la obtención de funciones matematicas, las cuales premiten representar los difenentes comportamientos que tienen las variables de interes en el sistema bajo estudio, con respecto a esta definicion se plantearon varios modelamientos como lo son: Mecánico, Hidráulico, Neumático, Térmico, Combinaciones. Cada uno de estos cuenta con un principio general para el modelamiento el cual es: $R=\frac{V}{I}$ 
+En la clase se vio que un modelamiento define como la obtención de funciones matematicas, las cuales premiten representar los difenentes comportamientos que tienen las variables de interes en el sistema bajo estudio, con respecto a esta definicion se plantearon varios modelamientos como lo son: Mecánico, Hidráulico, Neumático, Térmico, Combinaciones. Cada uno de estos cuenta con un principio general para el modelamiento el cual es: 
+$R=\frac{V}{I}$ 
 
-<p align="center">
-  [image](https://github.com/user-attachments/assets/a4a6de72-e926-449d-a238-386b945ca2c4)
-</p>
 
 ## 1. Subtítulos
 Agregue todos los subtítulos que considere necesarios para estructurar el contenido de la clase. Es importante que considere jerarquías de los temas para definir el orden de estos subtítulos. Cada subtítulo debe ir numerado como una sección, de la manera en que lo presenta esta plantilla
