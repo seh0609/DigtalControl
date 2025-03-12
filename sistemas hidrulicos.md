@@ -16,20 +16,23 @@ $$A1 x \frac{dh1}{dt}={q1}-{q2} $$ -- Inetercambio de masa
 >
 >🔑 *ℎ1: 𝑁𝑖𝑣𝑒𝑙 𝑑𝑒 𝑙í𝑞𝑢𝑖𝑑𝑜 𝑒𝑛 𝑒𝑙 𝑡𝑎𝑛𝑞𝑢𝑒*
 
+![image](https://github.com/user-attachments/assets/bac70db5-8595-4127-b43e-06d12cf89959)
 
-![image](https://github.com/user-attachments/assets/a8cba0f3-2039-452f-9cf2-6cc6c09090df)
-
-Figura 13. Amplificador operacional
+Figura 1. Diagram de tanque, sacado de https://controlautomaticoeducacion.com/analisis-de-sistemas/tanque-nivel/
 
 ### 3.2. Ejemplo
 💡**Ejemplo 1:** 
 
-![image](https://github.com/user-attachments/assets/16e3577a-744d-47f2-9bab-fc4a7f87ca08)
+![image](https://github.com/user-attachments/assets/74718833-aacd-4dac-89a2-2f067a032d85)
 
-Figura 15. Ejemplo sacado de https://hugochoque.com/wp-content/uploads/2016/09/EjREsAmpOp.pdf
+Figura 2. Ejemplo sacado de https://dademuchconnection.wordpress.com/2018/06/12/dinamica-de-un-sistema-de-nivel-de-liquidos/
+
+![image](https://github.com/user-attachments/assets/2635fcec-d557-4f42-8271-eb9126c738d4)
+
+Figura 3. desarrollo sacado de https://dademuchconnection.wordpress.com/2018/06/12/dinamica-de-un-sistema-de-nivel-de-liquidos/
 
 ## 3.3. Ejercicios
-📚 **Pasa altas**
+📚 **Ejercicio de tanque**
 
 ![image](https://github.com/user-attachments/assets/97c68261-8749-4f58-8b8e-f6bc6d869fd3)
 
@@ -46,8 +49,8 @@ Figura 18. Desarrollo 2
 ## 10. Concluslos circuitos RLC y los amplificadores operacionales nos sirven en el campo de nuestra ejerción, ya que son fundamentales en el diseño y análisis de sistemas eléctricos y electrónicos. Los circuitos RLC permiten controlar la corriente y el voltaje en aplicaciones como filtrado de señales y osciladores, mientras que los amplificadores operacionales facilitan el procesamiento y amplificación de señales para mejorar el rendimiento de los circuitos. Ambos conceptos, basados en las leyes de Kirchhoff, son esenciales en la automatización, el control y las telecomunicaciones.
 
 ## 11. Referencias
-https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
+[https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
 
-http://ansys.com/simulation-topics/what-are-rlc-circuits
+http://ansys.com/simulation-topics/what-are-rlc-circuits](https://controlautomaticoeducacion.com/analisis-de-sistemas/tanque-nivel/)
 
 https://hugochoque.com/wp-content/uploads/2016/09/EjREsAmpOp.pdf
