@@ -1,27 +1,26 @@
 # Sistemas electricos
 Un sistema eléctrico se define como el conjunto de circuitos, componentes y dispositivos interconectados que permiten la generación, distribución y consumo de energía eléctrica. Su función principal es suministrar energía a distintos sistemas y equipos, garantizando su operatividad. En la actualidad, estos sistemas son fundamentales en aplicaciones industriales, comerciales y domésticas, ya que facilitan el funcionamiento de maquinarias, automatización y dispositivos electrónicos.
 
+## 1. Circuito RLC
+En el estudio de sistemas eléctricos dentro de la mecatrónica, los circuitos RLC están formados por resistencias (R), inductores (L) y condensadores (C), conectados en serie o en paralelo. Su análisis se basa en las leyes de Kirchhoff, que modelan el comportamiento del circuito al describir la distribución de corriente y voltaje en cada componente. Estos circuitos son fundamentales en aplicaciones como filtrado de señales, osciladores y sistemas de transmisión de energía, ya que permiten controlar y regular el flujo de electricidad en diferentes dispositivos.
 
-## 2. Sistemas Mecanicos
-Este es un sistema el cual cumple una tarea especifica mediante la manipulación de fuerzas y movimientos. En estos sistemas se encuentran mecanismos que transforman la energía, ya sea para aumentar la velocidad, alterar la dirección del movimiento o generar un cambio deseado en la fuerza aplicada
+### 1.1. Ecuaciones fundamentales 
 
-### 2.1. Ecuaciones fundamentales 
+$$R=\frac{V(t)}{I(t)}$$ -- Ley de Ohm
 
-$$Fr={K2}x{X}$$ -- Ley de Hooke
+$$I(t)=C \frac{dv(t)}{dt}$$ -- Carga de condensador
 
-$$Ff={K1}x{Vm}$$ -- 𝐹𝑟𝑖𝑐𝑐𝑖ó𝑛 𝑣𝑖𝑠𝑐𝑜𝑠𝑎
-
-$$F={m}x{a}$$ -- 𝐿𝑒𝑦𝑒𝑠 𝑑𝑒 𝑁𝑒𝑤𝑡𝑜𝑛
+$$V(t)=L \frac{di(t)}{dt}$$ -- Carga de inductor
 
 ### 2.2. Ejemplo
-💡**Ejemplo 1:** Sistemas masa-resorte-amortiguador
+💡**Ejemplo 1:** Sistema RLC
 
-![image](https://github.com/user-attachments/assets/37a4bbfb-d056-45f2-bc5a-9ceb2ddcaf51)
+![image](https://github.com/user-attachments/assets/bf9c1a97-0a67-484d-801c-8a39fb1b41b7)
 
-Figura 3. Desarrollo del ejemplo, este ekemplo se saco de https://www.studocu.com/pe/document/universidad-nacional-de-san-agustin-de-arequipa/fisica/ejemplo-masa-resorte-amortiguador/30445000
 
-### 2.3. Tabla
-En caso de necesitar la inclusión de tablas para organizar información se recomienda el uso de la herramienta del siguiente enlace https://www.tablesgenerator.com/markdown_tables , la cual permite organizar la información dentro de la tabla y genera el código markdown automáticamente:
+Figura 3. Desarrollo del ejemplo, este ekemplo se saco de https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
+
+
 
 ## 2.4. Ejercicios
 📚 **Ejercicio mecanico**
