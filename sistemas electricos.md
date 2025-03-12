@@ -99,7 +99,8 @@ Figura 17. Desarrollo 1
 
 Figura 18. Desarrollo 2
 
-## 10. Concluslos circuitos RLC y los amplificadores operacionales nos sirven en el campo de nuestra ejerción, ya que son fundamentales en el diseño y análisis de sistemas eléctricos y electrónicos. Los circuitos RLC permiten controlar la corriente y el voltaje en aplicaciones como filtrado de señales y osciladores, mientras que los amplificadores operacionales facilitan el procesamiento y amplificación de señales para mejorar el rendimiento de los circuitos. Ambos conceptos, basados en las leyes de Kirchhoff, son esenciales en la automatización, el control y las telecomunicaciones.
+## 10. Conclusion
+los circuitos RLC y los amplificadores operacionales nos sirven en el campo de nuestra ejerción, ya que son fundamentales en el diseño y análisis de sistemas eléctricos y electrónicos. Los circuitos RLC permiten controlar la corriente y el voltaje en aplicaciones como filtrado de señales y osciladores, mientras que los amplificadores operacionales facilitan el procesamiento y amplificación de señales para mejorar el rendimiento de los circuitos. Ambos conceptos, basados en las leyes de Kirchhoff, son esenciales en la automatización, el control y las telecomunicaciones.
 
 ## 11. Referencias
 https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
