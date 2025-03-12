@@ -3,6 +3,9 @@ Se utilizan en todo tipo de entornos industriales grandes y pequeños, así como
 
 ### 2.1. Ecuaciones fundamentales 
 
+$$Q1=\frac{h1}{R1}$$ --Flujo de salida del tanque 
+
+$$A1 x \frac{dh1}{dt}={q1}-{q2} $$ -- Inetercambio de masa
 
 
 >🔑 *𝑞𝑖 𝑞𝑜: 𝐹𝑙𝑢𝑗𝑜𝑠 𝑑𝑒 𝑒𝑛𝑡𝑟𝑎𝑑𝑎 𝑦 𝑠𝑎𝑙𝑖𝑑𝑎 𝑑𝑒 𝑙í𝑞𝑢𝑖𝑑𝑜*
@@ -13,7 +16,6 @@ Se utilizan en todo tipo de entornos industriales grandes y pequeños, así como
 >
 >🔑 *ℎ1: 𝑁𝑖𝑣𝑒𝑙 𝑑𝑒 𝑙í𝑞𝑢𝑖𝑑𝑜 𝑒𝑛 𝑒𝑙 𝑡𝑎𝑛𝑞𝑢𝑒*
 
-Se utilizan leyes de Kirchoff y el modelo simplificado del amplificador operacional
 
 ![image](https://github.com/user-attachments/assets/a8cba0f3-2039-452f-9cf2-6cc6c09090df)
 
