@@ -5,9 +5,7 @@ En la clase se vio que un modelamiento define como la obtención de funciones ma
 
 ## 1. Modelo dinamico
 Variables de interes con respecto al tiempo
-$$
-F(t)
-$$
+$$F(t)$$
 ## 1. Subtítulos
 Agregue todos los subtítulos que considere necesarios para estructurar el contenido de la clase. Es importante que considere jerarquías de los temas para definir el orden de estos subtítulos. Cada subtítulo debe ir numerado como una sección, de la manera en que lo presenta esta plantilla
 
