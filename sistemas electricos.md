@@ -12,46 +12,67 @@ $$I(t)=C \frac{dv(t)}{dt}$$ -- Carga de condensador
 
 $$V(t)=L \frac{di(t)}{dt}$$ -- Carga de inductor
 
-### 2.2. Ejemplo
+### 1.2. Ejemplo
 💡**Ejemplo 1:** Sistema RLC
 
 ![image](https://github.com/user-attachments/assets/bf9c1a97-0a67-484d-801c-8a39fb1b41b7)
 
-
 Figura 3. Desarrollo del ejemplo, este ekemplo se saco de https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
 
+![image](https://github.com/user-attachments/assets/3fd76b08-d038-4729-ac8b-72cced57a9ce)
 
+Figura 4. Desarrollo del ejemplo, este ekemplo se saco de https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
 
-## 2.4. Ejercicios
-📚 **Ejercicio mecanico**
+![image](https://github.com/user-attachments/assets/343cf6af-17ad-4683-ae02-a493bcffabbc)
 
-![image](https://github.com/user-attachments/assets/19d2dd78-a7e2-4ee1-a64e-09c0b15871b7)
+Figura 5. Desarrollo del ejemplo, este ekemplo se saco de https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
 
-Figura 4. Ejercicio 1
+![image](https://github.com/user-attachments/assets/da5678a0-8a3c-4078-81ea-722d1dae4a0e)
 
-![image](https://github.com/user-attachments/assets/5ac06f2f-fe6d-4aa8-b058-7b03d5d7cde7)
+Figura 6. Desarrollo del ejemplo, este ekemplo se saco de https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
 
-Figura 5. Diagrama de cuerpo libre
+## 1.3. Ejercicios
+📚 **Ejercicio circuito RLC**
 
-![Imagen de WhatsApp 2025-03-11 a las 20 37 50_3db0ac34](https://github.com/user-attachments/assets/9eb2b32f-3b6a-454a-9641-2d542b8333bb)
+![image](https://github.com/user-attachments/assets/dde89fd5-835e-4b7b-90f6-8a6fd2702d85)
 
-Figura 6. Desarrollo del ejercicio 
+Figura 7. Ejercicio 1
 
-cambio
+![image](https://github.com/user-attachments/assets/c139361f-7f6d-4e7b-8e82-561a17203488)
 
-## 3. Sistemas Rotacional
-Se entiende por un sistema rotacional a un modelo que gira en torno de un eje interno a este movimiento se le conoce como "rotacion"
->🔑 *Rotacion:* movimiento en el que los distintos puntos del cuerpo presentan velocidades que son proporcionales a su distancia al eje.
+Figura 8. Desarrollo 1
 
-El rotacional o rotor es un operador vectorial que muestra la tendencia de un campo vectorial a inducir rotación alrededor de un punto.
+![image](https://github.com/user-attachments/assets/e86d946b-98f9-4650-85d6-8203d7d58635)
 
-### 3.1. Ecuaciones fundamentales 
+Figura 9. Desarrollo 1
 
-$$Fr={K}x{φ}$$ -- Angulo de torsion
+![image](https://github.com/user-attachments/assets/c1a1790d-239b-4320-b71f-2c8125bac19d)
 
-$$Ff=b x \frac{dφ}{dt}$$ -- V𝑒𝑙𝑜𝑐𝑖𝑑𝑎𝑑 𝑎𝑛𝑔𝑢𝑙𝑎𝑟
+Figura 10. Desarrollo 2
 
-$$T=J x \frac{dφ^2}{dt^2}$$ -- M𝑜𝑚𝑒𝑛𝑡𝑜 𝑑𝑒 𝑖𝑛𝑒𝑟𝑐𝑖𝑎
+![image](https://github.com/user-attachments/assets/54bb0181-91aa-4553-b64f-f4c6ba2b2917)
+
+Figura 11. Desarrollo 1
+
+![image](https://github.com/user-attachments/assets/5efa8366-013d-4afa-9489-d042c4c47a39)
+
+Figura 12 Circuitos con amplificadores operacionales
+
+## 2. Sistemas Rotacional
+Los amplificadores operacionales son circuitos integrados utilizados para amplificar señales eléctricas, realizar operaciones matemáticas (suma, resta, integración, diferenciación) y procesar señales en sistemas de control, instrumentación y electrónica analó
+
+### 2.1. Ecuaciones fundamentales 
+
+La tension en las entradas del amplificador son iguales V+ = V
+La corriente a las entradas del amplificador es 0
+La impedancia de entrada es muy grande
+La impedancia de salida es muy pequeña
+
+Se utilizan leyes de Kirchoff y el modelo simplificado del amplificador operacional
+
+![image](https://github.com/user-attachments/assets/a8cba0f3-2039-452f-9cf2-6cc6c09090df)
+
+Figura 13. Amplificador operacional
 
 ### 3.2. Ejemplo
 💡**Ejemplo 1:** 
@@ -92,12 +113,7 @@ Figura 13. Desarrollo del ejercicio
 Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
 
 ## 11. Referencias
-https://sdindustrial.com.mx/blog/introduccion-a-los-sistemas-mecanicos/
+https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
 
-https://www.studocu.com/pe/document/universidad-nacional-de-san-agustin-de-arequipa/fisica/ejemplo-masa-resorte-amortiguador/30445000
-
-https://ocw.unican.es/pluginfile.php/1829/course/section/1438/capitulo_1.pdf
-
-https://www.scribd.com/document/217568833/sistemas-rotacionales
-
+http://ansys.com/simulation-topics/what-are-rlc-circuits
 
