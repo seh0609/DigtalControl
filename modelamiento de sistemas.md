@@ -1,6 +1,7 @@
 # Modelamiento de sistemas
 En la clase se vio que un modelamiento define como la obtención de funciones matematicas, las cuales premiten representar los difenentes comportamientos que tienen las variables de interes en el sistema bajo estudio, con respecto a esta definicion se plantearon varios modelamientos como lo son: Mecánico, Hidráulico, Neumático, Térmico, Combinaciones. Cada uno de estos cuenta con un principio general para el modelamiento el cual es: 
 $R=\frac{V}{I}$ 
+$$R=\frac{V}{I}$$
 
 
 ## 1. Subtítulos
