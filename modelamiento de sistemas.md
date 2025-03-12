@@ -109,7 +109,7 @@ Figura 12. Diagrama de cuerpo libre
 Figura 13. Desarrollo del ejercicio 
 
 ## 10. Conclusiones
-Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
+l modelamiento mecánico y los sistemas rotacionales nos sirven en el campo de nuestra ejerción para analizar y predecir el comportamiento de mecanismos en movimiento, permitiendo optimizar su diseño y eficiencia. El modelamiento mecánico se emplea para representar sistemas físicos mediante ecuaciones matemáticas, mientras que los sistemas rotacionales describen el movimiento angular de componentes como engranajes, motores y turbinas. En la industria, estas aplicaciones son fundamentales en la robótica, la automatización, la manufactura y el sector automotriz, donde garantizan un funcionamiento preciso y eficiente de maquinarias y dispositivos.
 
 ## 11. Referencias
 https://sdindustrial.com.mx/blog/introduccion-a-los-sistemas-mecanicos/
