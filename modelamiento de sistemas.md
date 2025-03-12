@@ -2,8 +2,7 @@
 Se define como la obtención de funciones matematicas, las cuales premiten representar los difenentes comportamientos que tienen las variables de interes en el sistema bajo estudio
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/a4a6de72-e926-449d-a238-386b945ca2c4)
-" alt="Descripción de la imagen" width="300">
+  [image](https://github.com/user-attachments/assets/a4a6de72-e926-449d-a238-386b945ca2c4)
 </p>
 
 ## 1. Subtítulos
