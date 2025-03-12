@@ -6,8 +6,7 @@ En la clase se vio que un modelamiento define como la obtención de funciones ma
 ## 1. Modelo dinamico
 Variables de interes con respecto al tiempo F(t)
 
-Tambien es necesario saber cuando las variables cambian con respecto al tiempo <a href="http://www.alciro.org/tools/matematicas/editor-ecuaciones.jsp?eq=\frac{df(t)}{dt}"><img src="http://www.alciro.org/cgi/tex.cgi?\frac{df(t)}{dt}" title="\frac{df(t)}{dt}" border="0" /></a>
-
+Tambien es necesario saber cuando las variables cambian con respecto al tiempo \frac{df(t)}{dt}" border="0" /></a>
 
 
 
