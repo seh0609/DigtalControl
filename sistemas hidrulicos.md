@@ -34,23 +34,32 @@ Figura 3. desarrollo sacado de https://dademuchconnection.wordpress.com/2018/06/
 ## 3.3. Ejercicios
 📚 **Ejercicio de tanque**
 
-![image](https://github.com/user-attachments/assets/97c68261-8749-4f58-8b8e-f6bc6d869fd3)
+![image](https://github.com/user-attachments/assets/51ff01c0-f0a2-48ad-9e85-77a2123ae0e6)
 
-Figura 16. ejercicio 2
+Figura 4. Ejercicio 1 sacado de https://dademuchconnection.wordpress.com/2018/06/12/dinamica-de-un-sistema-de-nivel-de-liquidos/
 
-![image](https://github.com/user-attachments/assets/82352904-5edd-4372-87cf-5b98a7aca3da)
+![image](https://github.com/user-attachments/assets/e9f392e7-5a43-44e1-a5bf-f94ab7526c11)
 
-Figura 17. Desarrollo 1
+Figura 5. Ejercicio 1 sacado de https://dademuchconnection.wordpress.com/2018/06/12/dinamica-de-un-sistema-de-nivel-de-liquidos/
 
-![image](https://github.com/user-attachments/assets/304e6f6f-f09c-4592-b86a-df640536c497)
+![image](https://github.com/user-attachments/assets/067b00f1-8580-4533-8766-d7f705f3fb97)
 
-Figura 18. Desarrollo 2
+Figura 6. Ejercicio 1 sacado de https://dademuchconnection.wordpress.com/2018/06/12/dinamica-de-un-sistema-de-nivel-de-liquidos/
+
+![image](https://github.com/user-attachments/assets/5ca84043-3101-4393-9d86-9e07db990488)
+
+Figura 7. Ejercicio 1 sacado de https://dademuchconnection.wordpress.com/2018/06/12/dinamica-de-un-sistema-de-nivel-de-liquidos/
+
+![image](https://github.com/user-attachments/assets/d8084f4d-daa4-4542-98d3-27d98a56f0b9)
+
+Figura 8. Funcion de tranferencia,  sacado de https://dademuchconnection.wordpress.com/2018/06/12/dinamica-de-un-sistema-de-nivel-de-liquidos/
+
 
 ## 10. Concluslos circuitos RLC y los amplificadores operacionales nos sirven en el campo de nuestra ejerción, ya que son fundamentales en el diseño y análisis de sistemas eléctricos y electrónicos. Los circuitos RLC permiten controlar la corriente y el voltaje en aplicaciones como filtrado de señales y osciladores, mientras que los amplificadores operacionales facilitan el procesamiento y amplificación de señales para mejorar el rendimiento de los circuitos. Ambos conceptos, basados en las leyes de Kirchhoff, son esenciales en la automatización, el control y las telecomunicaciones.
 
 ## 11. Referencias
-[https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
 
-http://ansys.com/simulation-topics/what-are-rlc-circuits](https://controlautomaticoeducacion.com/analisis-de-sistemas/tanque-nivel/)
+https://dademuchconnection.wordpress.com/2018/06/12/dinamica-de-un-sistema-de-nivel-de-liquidos/
 
-https://hugochoque.com/wp-content/uploads/2016/09/EjREsAmpOp.pdf
+https://controlautomaticoeducacion.com/analisis-de-sistemas/tanque-nivel/
+
