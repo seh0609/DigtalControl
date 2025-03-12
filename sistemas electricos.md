@@ -44,29 +44,32 @@ Figura 8. Desarrollo 1
 
 ![image](https://github.com/user-attachments/assets/e86d946b-98f9-4650-85d6-8203d7d58635)
 
-Figura 9. Desarrollo 1
+Figura 9. Desarrollo 2
 
 ![image](https://github.com/user-attachments/assets/c1a1790d-239b-4320-b71f-2c8125bac19d)
 
-Figura 10. Desarrollo 2
+Figura 10. Desarrollo 3
 
 ![image](https://github.com/user-attachments/assets/54bb0181-91aa-4553-b64f-f4c6ba2b2917)
 
-Figura 11. Desarrollo 1
+Figura 11. Desarrollo 4
 
 ![image](https://github.com/user-attachments/assets/5efa8366-013d-4afa-9489-d042c4c47a39)
 
-Figura 12 Circuitos con amplificadores operacionales
+Figura 12. Desarrollo 5
 
-## 2. Sistemas Rotacional
+## 2. Amplificadores Operacionales
 Los amplificadores operacionales son circuitos integrados utilizados para amplificar señales eléctricas, realizar operaciones matemáticas (suma, resta, integración, diferenciación) y procesar señales en sistemas de control, instrumentación y electrónica analó
 
 ### 2.1. Ecuaciones fundamentales 
 
-La tension en las entradas del amplificador son iguales V+ = V
-La corriente a las entradas del amplificador es 0
-La impedancia de entrada es muy grande
-La impedancia de salida es muy pequeña
+>🔑 *La tension en las entradas del amplificador son iguales V+ = V*
+>
+>🔑 *La corriente a las entradas del amplificador es 0*
+>
+>🔑 *La impedancia de entrada es muy grande*
+>
+>🔑 *La impedancia de salida es muy pequeña*
 
 Se utilizan leyes de Kirchoff y el modelo simplificado del amplificador operacional
 
@@ -77,43 +80,32 @@ Figura 13. Amplificador operacional
 ### 3.2. Ejemplo
 💡**Ejemplo 1:** 
 
-![image](https://github.com/user-attachments/assets/b61d2c92-58a8-4873-a851-522f96376599)
+![image](https://github.com/user-attachments/assets/16e3577a-744d-47f2-9bab-fc4a7f87ca08)
 
-Figura 7 Desarrollo del ejemplo, este ekemplo se saco de https://dademuchconnection.wordpress.com/2018/09/22/funcion-de-transferencia-de-sistema-mecanico-rotacional-masa-resorte-amortiguador/
-
-![image](https://github.com/user-attachments/assets/d88d1486-e911-4082-900b-ed0aea6fd051)
-
-Figura 8 Desarrollo del ejemplo, este ekemplo se saco de https://dademuchconnection.wordpress.com/2018/09/22/funcion-de-transferencia-de-sistema-mecanico-rotacional-masa-resorte-amortiguador/
-
-
-![image](https://github.com/user-attachments/assets/9cd335f7-d883-4480-a896-d21db1bce4a4)
-
-Figura 9 Desarrollo del ejemplo, este ekemplo se saco de https://dademuchconnection.wordpress.com/2018/09/22/funcion-de-transferencia-de-sistema-mecanico-rotacional-masa-resorte-amortiguador/
-
-![image](https://github.com/user-attachments/assets/309a12ac-0ce0-4204-917c-fdcc9f222520)
-
-Figura 10 Desarrollo del ejemplo, este ekemplo se saco de https://dademuchconnection.wordpress.com/2018/09/22/funcion-de-transferencia-de-sistema-mecanico-rotacional-masa-resorte-amortiguador/
+Figura 15. Ejemplo sacado de https://hugochoque.com/wp-content/uploads/2016/09/EjREsAmpOp.pdf
 
 ## 3.3. Ejercicios
-📚 **Ejercicio rotacional**
+📚 **Pasa altas**
 
-![image](https://github.com/user-attachments/assets/c283e99e-ffd9-4e6d-9189-bcc6598aaa15)
+![image](https://github.com/user-attachments/assets/97c68261-8749-4f58-8b8e-f6bc6d869fd3)
 
-Figura 11. Ejercicio 2
+Figura 16. ejercicio 2
 
-![image](https://github.com/user-attachments/assets/7d95bb4d-a755-4306-a945-f803a46418ea)
+![image](https://github.com/user-attachments/assets/82352904-5edd-4372-87cf-5b98a7aca3da)
 
-Figura 12. Diagrama de cuerpo libre
+Figura 17. Desarrollo 1
 
-![Imagen de WhatsApp 2025-03-11 a las 20 38 38_b53a63da](https://github.com/user-attachments/assets/cf8c19f1-0451-496b-b436-af6c8e7f0577)
+![image](https://github.com/user-attachments/assets/304e6f6f-f09c-4592-b86a-df640536c497)
 
-Figura 13. Desarrollo del ejercicio 
+Figura 18. Desarrollo 2
 
 ## 10. Conclusiones
-Agregue unas breves conclusiones sobre los temas trabajados en cada clase, puede ser a modo de resumen de lo trabajado o a indicando lo aprendido en cada clase
+En conclusión, los circuitos RLC y los amplificadores operacionales nos sirven en el campo de nuestra ejerción, ya que son fundamentales en el diseño y análisis de sistemas eléctricos y electrónicos. Los circuitos RLC permiten controlar la corriente y el voltaje en aplicaciones como filtrado de señales y osciladores, mientras que los amplificadores operacionales facilitan el procesamiento y amplificación de señales para mejorar el rendimiento de los circuitos. Ambos conceptos, basados en las leyes de Kirchhoff, son esenciales en la automatización, el control y las telecomunicaciones.
 
 ## 11. Referencias
 https://www.youtube.com/watch?v=uIHLhblmrcA&ab_channel=Se%C3%B1alesySistemas
 
 http://ansys.com/simulation-topics/what-are-rlc-circuits
+
+https://hugochoque.com/wp-content/uploads/2016/09/EjREsAmpOp.pdf
 
