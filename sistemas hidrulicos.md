@@ -55,7 +55,8 @@ Figura 7. Ejercicio 1 sacado de https://dademuchconnection.wordpress.com/2018/06
 Figura 8. Funcion de tranferencia,  sacado de https://dademuchconnection.wordpress.com/2018/06/12/dinamica-de-un-sistema-de-nivel-de-liquidos/
 
 
-## 10. Concluslos circuitos RLC y los amplificadores operacionales nos sirven en el campo de nuestra ejerción, ya que son fundamentales en el diseño y análisis de sistemas eléctricos y electrónicos. Los circuitos RLC permiten controlar la corriente y el voltaje en aplicaciones como filtrado de señales y osciladores, mientras que los amplificadores operacionales facilitan el procesamiento y amplificación de señales para mejorar el rendimiento de los circuitos. Ambos conceptos, basados en las leyes de Kirchhoff, son esenciales en la automatización, el control y las telecomunicaciones.
+## 10. Conclusion
+Los modelos hidráulicos nos sirven en la práctica para predecir y optimizar el comportamiento de los sistemas de fluidos, permitiendo un diseño más eficiente y seguro en diversas aplicaciones industriales. Estos modelos, basados en principios físicos y matemáticos, son esenciales para el control del flujo en tuberías, bombas y válvulas, asegurando un adecuado rendimiento en sectores como la automatización, la manufactura, la industria automotriz y la generación de energía. Gracias a su aplicación, es posible mejorar la eficiencia de los sistemas hidráulicos, reducir pérdidas de energía y garantizar un funcionamiento óptimo en diferentes procesos.
 
 ## 11. Referencias
 
