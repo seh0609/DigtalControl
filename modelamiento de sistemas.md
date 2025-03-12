@@ -42,10 +42,7 @@ $$F={m}x{a}$$ -- 𝐿𝑒𝑦𝑒𝑠 𝑑𝑒 𝑁𝑒𝑤𝑡𝑜𝑛
 
 Figura 3. Desarrollo del ejemplo, este ekemplo se saco de https://www.studocu.com/pe/document/universidad-nacional-de-san-agustin-de-arequipa/fisica/ejemplo-masa-resorte-amortiguador/30445000
 
-### 2.3. Tabla
-En caso de necesitar la inclusión de tablas para organizar información se recomienda el uso de la herramienta del siguiente enlace https://www.tablesgenerator.com/markdown_tables , la cual permite organizar la información dentro de la tabla y genera el código markdown automáticamente:
-
-## 2.4. Ejercicios
+## 2.3. Ejercicios
 📚 **Ejercicio mecanico**
 
 ![image](https://github.com/user-attachments/assets/19d2dd78-a7e2-4ee1-a64e-09c0b15871b7)
