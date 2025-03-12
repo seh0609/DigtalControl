@@ -1,6 +1,10 @@
 # Modelamiento de sistemas
 Se define como la obtención de funciones matematicas, las cuales premiten representar los difenentes comportamientos que tienen las variables de interes en el sistema bajo estudio
-![image](https://github.com/user-attachments/assets/1cce9ad4-711b-4333-9158-011dea252350)
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/a4a6de72-e926-449d-a238-386b945ca2c4)
+" alt="Descripción de la imagen" width="300">
+</p>
 
 ## 1. Subtítulos
 Agregue todos los subtítulos que considere necesarios para estructurar el contenido de la clase. Es importante que considere jerarquías de los temas para definir el orden de estos subtítulos. Cada subtítulo debe ir numerado como una sección, de la manera en que lo presenta esta plantilla
